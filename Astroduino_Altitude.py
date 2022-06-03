@@ -17,7 +17,7 @@ end = 0
 
 while True:
 
-    rotateServo(10,0)
+    rotateServo(11,0)
     end = time()
     print(end-start)
     # Altitude Time
