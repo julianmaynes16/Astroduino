@@ -9,3 +9,12 @@ Arduino project based on making a star tracker that can track heavenly bodies.
 5. Launch the Astroduino_Azimuth program and replace the number seen in line 24 with the azimuth number given in the Astroduino_Coords program and run the program. The bottom motor should move.
 6. Launch the Astroduino_Altitude program and replace the number seen in line 24 with the altitude number given in the Astroduino_Coords program. The top motor should move. 
 7. The top motor should be facing the desired object! To track another object, reinput your information and reposition the motor head back to the north and level with the motor.
+
+# Status
+
+06/22/22 - This software is a work in progress. The pointer will point near an object, but it will be severely off. I am just working on calibration, which will be done soon!
+
+# Contact
+
+Have any questions? Feel free to contact me! 
+Email: thelastpocket@gmail.com
