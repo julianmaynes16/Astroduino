@@ -17,4 +17,4 @@ Arduino project based on making a star tracker that can track heavenly bodies.
 # Contact
 
 Have any questions? Feel free to contact me! 
-Email: thelastpocket@gmail.com
+Email: julianmaynes16@gmail.com
